@@ -1,0 +1,27 @@
+AI ASSISTANCE LOG - SKYBOUND
+Date: 2026-11-05
+Tool: OpenAI Codex desktop agent
+
+The project was developed with direct AI-agent assistance. Codex wrote and
+modified project files; its use was not limited to explanation or tutoring.
+
+Work assisted by Codex:
+- Reviewed supplied Unity lectures and assignment requirements.
+- Added mobile HUD, menus, SafeArea, anchors and Input System controls.
+- Added hearts, damage, temporary invulnerability and collectible coins.
+- Created a separate main-menu scene and scene transitions.
+- Added platforms, finish gates, a second level and a character colour variant.
+- Generated synthesized WAV music/effects and connected audio events.
+- Changed the Jump button to a circle.
+- Prepared the English GDD PDF and suggested README/Git workflow text.
+- Ran editor checks of gameplay, UI layout, scene flow and audio.
+
+No precise percentage of AI-written code has been measured.
+The student should review and understand the implementation and record their
+own subsequent work and any further AI assistance.
+
+Course-policy note: Assignment 8-9 prohibits AI agents writing project code.
+This log records the actual assistance and does not establish compliance.
+Acceptance of the existing work must be clarified with the instructor.
+
+Follow-up: Codex enlarged mobile UI buttons to a minimum of 120 x 120, raised small uGUI text to 36 and made button labels stretch with their buttons in MainMenu, SampleScene and Level2.

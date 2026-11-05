@@ -1,0 +1,39 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE-generated files
+/.vscode/
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+
+# Local authoring and verification files
+/tmp/
+/Documentation/Backups/
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
